@@ -1,6 +1,8 @@
 [
     {
-      "x2": "false",
+      "ip": "54.36.82.238",
+      "port": 1373,
+      "x2": false,
       "name": "Name",
       "online": 2,
       "maxonline": 1000
