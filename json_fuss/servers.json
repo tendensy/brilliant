@@ -1,0 +1,26 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "(X2 АКЦИИ) (TEST)",
+      "x2": true,
+      "maxonline": 500,
+      "name": "RED",
+      "online": 2
+    },
+    {
+      "color": "00FF00",
+      "dopname": "(TEST)",
+      "x2": false,
+      "maxonline": 50,
+      "name": "GREEN",
+      "online": 0
+    },
+    {
+      "color": "0000FF",
+      "dopname": "(PRELEASE)",
+      "x2": false,
+      "maxonline": 50,
+      "name": "BLUE",
+      "online": 0
+    }
+  ]
