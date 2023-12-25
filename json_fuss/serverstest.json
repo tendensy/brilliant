@@ -4,7 +4,9 @@
       "dopname": "",
       "x2": true,
       "maxonline": 100,
-      "name": "test weik 2",
-      "online": 100
+      "name": "НАЗВАНИЕ СЕРВЕРА",
+      "online": 100,
+      "host": "146.59.209.106",
+      "port": 1429
     }
   ]
