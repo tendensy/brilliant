@@ -2137,58 +2137,6 @@
 			"money" : 0
 		},
 		{
-			"internalId": 176,
-			"gameId": 1,
-			"header": "Бродяга",
-			"subheader" : "500.000 ₽",
-			"desc" : "",
-			"basePrice" : 500,
-			"imageId" : "pack_brodyaga",
-			"count" : 1,
-			"type" : 6,
-			"valid" : 1,
-			"money" : 500000
-		},
-		{
-			"internalId": 177,
-			"gameId": 1,
-			"header": "Всё впереди",
-			"subheader" : "1.000.000 ₽",
-			"desc" : "",
-			"basePrice" : 1000,
-			"imageId" : "pack_vse_vperedi",
-			"count" : 1,
-			"type" : 6,
-			"valid" : 1,
-			"money" : 1000000
-		},
-		{
-			"internalId": 178,
-			"gameId": 1,
-			"header": "Зажиточный",
-			"subheader" : "10.000.000 ₽",
-			"desc" : "",
-			"basePrice" : 10000,
-			"imageId" : "pack_zazhitochniy",
-			"count" : 1,
-			"type" : 6,
-			"valid" : 1,
-			"money" : 10000000
-		},
-		{
-			"internalId": 179,
-			"gameId": 1,
-			"header": "Сельчанин",
-			"desc" : "",
-			"basePrice" : 110,
-			"imageId" : "packet_selchanin",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [12, 122, 180],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
 			"internalId": 180,
 			"gameId": 30,
 			"header": "Одежда 'Пацанский шмот'",
@@ -2198,19 +2146,6 @@
 			"count" : 1,
 			"type" : -1,
 			"subtype" : 2
-		},
-		{
-			"internalId": 181,
-			"gameId": 1,
-			"header": "Бандит",
-			"desc" : "",
-			"basePrice" : 350,
-			"imageId" : "packet_bandit",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [22, 122, 182],
-			"values" : [1, 1, 1],
-			"isNew" : 0
 		},
 		{
 			"internalId": 182,
@@ -2248,45 +2183,6 @@
 			"type" : 9
 		},
 		{
-			"internalId": 185,
-			"gameId": 1,
-			"header": "Гангстер",
-			"desc" : "",
-			"basePrice" : 540,
-			"imageId" : "packet_gangster",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [28, 122, 186],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 268,
-			"gameId": 1,
-			"header": "Красавчик",
-			"desc" : "",
-			"basePrice" : 650,
-			"imageId" : "hw_fred",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [228, 258, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 269,
-			"gameId": 1,
-			"header": "Красотка",
-			"desc" : "",
-			"basePrice" : 900,
-			"imageId" : "hw_daffna",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [227, 241, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
 			"internalId": 186,
 			"gameId": 0,
 			"header": "VIP Silver (2 д.)",
@@ -2296,19 +2192,6 @@
 			"count" : 2,
 			"valid" : 1,
 			"type" : 9
-		},
-		{
-			"internalId": 187,
-			"gameId": 1,
-			"header": "Гонщик",
-			"desc" : "",
-			"basePrice" : 915,
-			"imageId" : "packet_ghost_racer",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [78, 122, 188],
-			"values" : [1, 1, 1],
-			"isNew" : 0
 		},
 		{
 			"internalId": 188,
@@ -2322,71 +2205,6 @@
 			"type" : 9
 		},
 		{
-			"internalId": 189,
-			"gameId": 1,
-			"header": "Депутат",
-			"desc" : "",
-			"basePrice" : 1250,
-			"imageId" : "packet_deputat",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [34, 122, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 270,
-			"gameId": 1,
-			"header": "Ведьма",
-			"desc" : "",
-			"basePrice" : 2000,
-			"imageId" : "hw_witch",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [229, 267, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 271,
-			"gameId": 1,
-			"header": "Улыбка зла",
-			"desc" : "",
-			"basePrice" : 2100,
-			"imageId" : "hw_smile",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [229, 248, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 272,
-			"gameId": 1,
-			"header": "Страшила",
-			"desc" : "",
-			"basePrice" : 3900,
-			"imageId" : "hw_kruger",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [231, 248, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 273,
-			"gameId": 1,
-			"header": "Смерть с косой",
-			"desc" : "",
-			"basePrice" : 3900,
-			"imageId" : "hw_scream",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [230, 255, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
 			"internalId": 190,
 			"gameId": 1,
 			"header": "VIP Gold (3 д.)",
@@ -2398,19 +2216,6 @@
 			"type" : 9
 		},
 		{
-			"internalId": 191,
-			"gameId": 1,
-			"header": "Мафиози",
-			"desc" : "",
-			"basePrice" : 4000,
-			"imageId" : "packet_mafiozi",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [52, 122, 192],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
 			"internalId": 192,
 			"gameId": 2,
 			"header": "VIP Platinum (3 д.)",
@@ -2420,32 +2225,6 @@
 			"count" : 3,
 			"valid" : 1,
 			"type" : 9
-		},
-		{
-			"internalId": 193,
-			"gameId": 1,
-			"header": "Мажор",
-			"desc" : "",
-			"basePrice" : 5800,
-			"imageId" : "packet_mazhor",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [64, 122, 194],
-			"values" : [1, 1, 1],
-			"isNew" : 0
-		},
-		{
-			"internalId": 262,
-			"gameId": 1,
-			"header": "Кости",
-			"desc" : "",
-			"basePrice" : 6200,
-			"imageId" : "hw_kostyan",
-			"count" : 1,
-			"type" : 3,
-			"contains" : [237, 241, 190],
-			"values" : [1, 1, 1],
-			"isNew" : 0
 		},
 		{
 			"internalId": 194,
@@ -2461,7 +2240,7 @@
 		{
 			"internalId": 196,
 			"gameId": 211,
-			"header": "ПОПОЛНИ ОТ {FFFF00}1 000Р{ffffff} И ПОЛУЧИ \n{FFFF00}+5% BLACK COINS{ffffff} ДОПОЛНИТЕЛЬНО",
+			"header": "ПОПОЛНИ ОТ {FFFF00}100Р{ffffff} И ПОЛУЧИ \n{FFFF00}+50 FUSS COINS{ffffff} В ПОДАРОК",
 			"desc" : "",
 			"basePrice" : 0,
 			"imageId" : "image_test",
@@ -2471,7 +2250,7 @@
 		{
 			"internalId": 197,
 			"gameId": 211,
-			"header": "ПОПОЛНИ ОТ {FFFF00}3 000Р{ffffff} И ПОЛУЧИ\n{FFFF00}+7% BLACK COINS{ffffff} ДОПОЛНИТЕЛЬНО",
+			"header": "ПОПОЛНИ ОТ {FFFF00}500Р{ffffff} И ПОЛУЧИ\n{FFFF00}+150 FUSS COINS{ffffff} В ПОДАРОК",
 			"desc" : "",
 			"basePrice" : 0,
 			"imageId" : "image_test",
@@ -2481,7 +2260,7 @@
 		{
 			"internalId": 198,
 			"gameId": 211,
-			"header": "ПОПОЛНИ ОТ {FFFF00}5 000Р{ffffff} И ПОЛУЧИ\n{FFFF00}+10% BLACK COINS{ffffff} ДОПОЛНИТЕЛЬНО",
+			"header": "ПОПОЛНИ ОТ {FFFF00}1 000Р{ffffff} И ПОЛУЧИ\n{FFFF00}500 FUSS COINS{ffffff} В ПОДАРОК",
 			"desc" : "",
 			"basePrice" : 0,
 			"imageId" : "image_test",
@@ -2809,9 +2588,9 @@
 			"internalId": 476, 
 			"gameId": 579,
 			"modelId" : 11919,
-			"header": "Кейс в руки (test)",
+			"header": "Кейс в руки",
 			"subheader" : "деловая",
-			"basePrice" : 999999999,
+			"basePrice" : 999999,
 			"imageId" : "ask_icon",
 			"modelZoom" : 1,
 			"rot" : [0, 180, 0],
